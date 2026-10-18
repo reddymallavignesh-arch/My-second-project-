@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise AI",
+  "description": "Smart personal finance and expense tracker powered by Gemini AI with intelligent budgeting, receipt scanning, and AI financial advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
